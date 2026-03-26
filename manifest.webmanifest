@@ -1,0 +1,47 @@
+{
+  "name": "BAS MBA Wellness",
+  "short_name": "BAS MBA",
+  "description": "Meditation, Breathing, and Asana wellness booklet by Bhramaastra Advisory Services.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#060d1a",
+  "theme_color": "#003D7A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "previews/preview-home.png",
+      "sizes": "1290x2796",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Home splash preview"
+    },
+    {
+      "src": "previews/preview-booklet.png",
+      "sizes": "1290x2796",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Booklet preview"
+    }
+  ]
+}
